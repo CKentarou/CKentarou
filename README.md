@@ -1,4 +1,4 @@
-### 👋 Hi there!  
+# 👋🏾Hi there!!&nbsp;&nbsp; I'm CKentarou.
 
 🔭 **Currently Working On**  
 I am working as a mentor at a programming school, helping students learn coding and web development.  
