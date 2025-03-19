@@ -7,5 +7,5 @@ I am working as a mentor at a programming school, helping students learn coding 
 🌱 **Currently Learning**  
 I am learning web application frameworks, focusing on improving my skills in backend and frontend development.  
 
-## 🛠 **My Skills & Technologies**  
+## 🛠 **Skills & Technologies**  
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,ruby,rails,html,css,js,mysql,aws,)](https://skillicons.dev)
